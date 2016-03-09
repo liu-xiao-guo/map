@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of map",
+    "framework": "ubuntu-sdk-14.10",
+    "hooks": {
+        "map": {
+            "apparmor": "map.apparmor",
+            "desktop": "map.desktop"
+        }
+    },
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "name": "com.ubuntu.developer.liu-xiao-guo.map",
+    "title": "map",
+    "version": "0.1"
+}

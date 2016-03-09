@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=map
+Exec=qmlscene $@ main.qml
+Icon=map.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
